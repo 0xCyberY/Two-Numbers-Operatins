@@ -1,0 +1,9 @@
+Algorithm
+STEP 1:	START
+STEP 2:	Ask the user for two numbers and store them in num1 and num2
+STEP 3:	Compute a+b and store in sum
+	Compute a-b and store in diff
+	Compute a*b and store in prod
+	Copmute (a+b)/2 and store in avg
+STEP 4:	Print the values of sum, diff, prod and avg
+STEP 5:	STOP
